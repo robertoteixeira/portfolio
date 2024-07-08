@@ -1,7 +1,7 @@
 {
-    "name": "Micheal Weaver",
-    "logo_name": "micheal-weaver",
-    "role": "Front-end developer",
+    "name": "Roberto Teixeira",
+    "logo_name": "roberto-teixeira",
+    "role": "Mobile Developer",
     "about": {
         "sections": {
             "professional-info": {
@@ -64,15 +64,15 @@
         "direct": {
             "title": "contacts",
             "sources": {
-                "email": "user@gmail.com",
-                "phone": "+3598246359"
+                "email": "roberto.teixeirafs@gmail.com",
+                "phone": "+351910147404"
             }
         },
         "social": {
             "github": {
                 "title": "Github profile",
-                "url": "https://github.com/",
-                "user": "username"
+                "url": "https://github.com/robertoteixeira",
+                "user": "robertoteixeira"
             },
             "facebook": {
                 "title": "Facebook profile",
