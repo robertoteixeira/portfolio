@@ -140,8 +140,8 @@ main.page {
 /* LG - XL */
 @media (min-width: 1024px) {
   #page-menu, #nav-logo, #filter-menu {
-    min-width: 275px !important;
-    max-width: 275px !important;
+    min-width: 365px !important;
+    max-width: 365px !important;
   }
 
   #page-menu, #filter-menu {
@@ -180,8 +180,8 @@ main.page {
 
 
   #page-menu, #nav-logo, #filter-menu {
-    min-width: 310px !important;
-    max-width: 310px !important;
+    min-width: 400px !important;
+    max-width: 400px !important;
   }
 
   /* header */
