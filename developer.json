@@ -117,46 +117,88 @@
     },
     "projects": {
         "1": {
-            "title": "_ui-animations",
+            "title": "World Winner",
             "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/ui-animations2.png",
-            "tech": ["Flutter"],
-            "url": "https://github.com/"
+            "img": "/images/projects/world-winner.png",
+            "tech": ["Swift"],
+            "url": "https://www.worldwinner.com/"
         },
         "2": {
-            "title": "_ai-resources",
+            "title": "Fanduel Faceoff",
             "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/ai-resources.png",
-            "tech": ["Gatsby"],
-            "url": "https://github.com/"
+            "img": "/images/projects/fanduel-faceoff.png",
+            "tech": ["Swift"],
+            "url": "https://www.fanduel.com/faceoff"
         },
         "3": {
-            "title": "_worldmap",
+            "title": "Technomar Maritime Simulator",
             "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/worldmap.png",
-            "tech": ["Angular"],
-            "url": "https://github.com/"
+            "img": "/images/projects/tms-simulator.png",
+            "tech": ["Unity"],
+            "url": "https://www.technomar.com.br/en/"
         },
         "4": {
-            "title": "_ui-animations",
+            "title": "TMS Instructor",
             "description": "Duis aute irure dolor in velit esse cillum dolore.",
             "img": "/images/projects/ui-animations.png",
-            "tech": ["React"],
+            "tech": ["WPF"],
             "url": "https://github.com/"
         },
         "5": {
-            "title": "_tetris-game",
+            "title": "Optnet WEB",
             "description": "Duis aute irure dolor in velit esse cillum dolore.",
             "img": "/images/projects/tetris-game.png",
-            "tech": ["React"],
-            "url": "https://github.com/"
+            "tech": [".NET"],
+            "url": "https://www.optnet.com.br/"
         },
         "6": {
-            "title": "_ethereum",
+            "title": "Mike Miner in Cave Escape",
+            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "img": "/images/projects/tetris-game.png",
+            "tech": ["Unity"],
+            "url": "https://play.google.com/store/apps/details?id=com.ConceptSoft.CaveScape"
+        },
+        "7": {
+            "title": "Tap Animals",
             "description": "Duis aute irure dolor in velit esse cillum dolore.",
             "img": "/images/projects/ethereum.png",
-            "tech": ["Vue"],
+            "tech": ["Unity"],
             "url": "https://github.com/"
+        },
+        "8": {
+            "title": "Nikeland",
+            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "img": "/images/projects/nike.png",
+            "tech": ["Roblox"],
+            "url": "https://www.nike.com/kids/nikeland-roblox"
+        },
+        "9": {
+            "title": "FIFA Footblocks",
+            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "img": "/images/projects/footblocks.png",
+            "tech": ["Roblox"],
+            "url": "https://www.roblox.com/games/13982397897/FIFA-Footblocks-Soccer"
+        },
+        "10": {
+            "title": "FIFA World",
+            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "img": "/images/projects/fifa-world.png",
+            "tech": ["Roblox"],
+            "url": "https://www.roblox.com/games/9486506804/FIFA-World-New-Tycoon"
+        },
+        "11": {
+            "title": "Touchdown Simulator",
+            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "img": "/images/projects/touchdown.png",
+            "tech": ["Roblox"],
+            "url": "https://www.roblox.com/games/15479868981/Touchdown-Simulator"
+        },
+        "12": {
+            "title": "Pancake Empire",
+            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "img": "/images/projects/pancake-empire.png",
+            "tech": ["Roblox"],
+            "url": "https://www.roblox.com/games/12067094710/NEW-OBBY-UGC-Pancake-Empire-Tower-Tycoon"
         }
     }
 }
