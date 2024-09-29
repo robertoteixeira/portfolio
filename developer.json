@@ -10,7 +10,7 @@
                 "info": {
                     "experience": {
                         "title": "experience",
-                        "description": "<br>Over the past 5 years, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br> About me<br><br><p>I'm a Software Developer with over 10 years of experience in various domains, specializing in the last 3 years in native iOS development using Swift, SwiftUI, and Xcode. I have a strong background in building high-quality, intuitive mobile applications for Apple devices.<br><br>Prior to focusing on iOS, I gained extensive experience in a variety of software development areas:<br><br>Game Development: Proficient with Unity3D and Roblox for creating cross-platform video games.<br><br>Full-Stack Web and Desktop Development: Experienced in building web and desktop applications using ASP.NET MVC, WPF, and Bootstrap.<br><br>Backend & API Development: Strong background in designing and integrating RESTful web services.<br><br> Database Management: Skilled in managing both SQL Server and MongoDB databases.<br><br>With a passion for crafting clean and efficient code, I am always eager to take on new challenges and grow as a developer.</p>"
                     },
                     "hard-skills": {
                         "title": "hard-skills",
@@ -28,20 +28,12 @@
                 "info": { 
                     "bio": {
                         "title": "bio",
-                        "description": "<br> About me <br> I have 5 years of experience in web development lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  nulla pariatur. Excepteur sint occaecat  officia deserunt mollit anim id est laborum."
+                        "description": "<br> About me <br><br>I'm a passionate Mobile Developer with over 3 years of experience in native iOS development using Swift, SwiftUI, and Xcode. I specialize in building high-quality, intuitive mobile applications for Apple devices, focusing on delivering seamless user experiences and leveraging the latest iOS frameworks.<br>In addition to my expertise in iOS, I have a diverse background in software development across multiple platforms:<br><br>Game Development: Proficient with Unity3D for creating cross-platform video games.</br><br>Full-Stack Web and Desktop Development: Experienced in building web and desktop applications using ASP.NET MVC, WPF, and Bootstrap.</br><br>Backend & API Development: Strong background in designing and integrating RESTful web services.</br><br>Database Management: Skilled in managing both SQL Server and MongoDB databases."
                     },
                     "interests": {
                         "title": "interests",
                         "description": "<br>I am constantly learning and lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-                    },
-                    "education": {
-                        "title": "education",
-                        "description": "<br>I have always been passionate about lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-                        "files": {
-                            "high-school": "I have been in 'Las viñas'...",
-                            "university": "The university..."
-                        }
-                    }
+                    }                   
                 }
             },
             "hobbies-info": {
@@ -83,6 +75,11 @@
                 "title": "Twitter account",
                 "url": "https://twitter.com/",
                 "user": "username"
+            },
+            "linkedin": {
+                "title": "LinkedIn account",
+                "url": "https://linkedin.com/in/",
+                "user": "rteixeirafs"
             }
         },
         "find_me_also_in": {
@@ -112,8 +109,8 @@
         }
     },
     "gists": {
-        "1": "83861a67e377633ee8368df01ee3a355",
-        "2": "694c1f32332788a2ac7f37b09e5aa40e"
+        "1": "b2cf180bb75d244256f1cfafb2940a6a",
+        "2": "f73f11b6dad3bed3e8e4695105a13379"
     },
     "projects": {
         "1": {
