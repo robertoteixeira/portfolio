@@ -1,7 +1,7 @@
 {
     "name": "Roberto Teixeira",
     "logo_name": "roberto-teixeira",
-    "role": "Mobile Developer",
+    "role": "Mobile Engineer",
     "about": {
         "sections": {
             "professional-info": {
@@ -28,7 +28,7 @@
                 "info": { 
                     "bio": {
                         "title": "bio",
-                        "description": "<br> About me <br><br>I'm a passionate Mobile Developer with over 3 years of experience in native iOS development using Swift, SwiftUI, and Xcode. I specialize in building high-quality, intuitive mobile applications for Apple devices, focusing on delivering seamless user experiences and leveraging the latest iOS frameworks.<br>In addition to my expertise in iOS, I have a diverse background in software development across multiple platforms:<br><br>Game Development: Proficient with Unity3D for creating cross-platform video games.</br><br>Full-Stack Web and Desktop Development: Experienced in building web and desktop applications using ASP.NET MVC, WPF, and Bootstrap.</br><br>Backend & API Development: Strong background in designing and integrating RESTful web services.</br><br>Database Management: Skilled in managing both SQL Server and MongoDB databases."
+                        "description": "<br> About me <br><br>I'm a passionate Mobile Engineer with over 3 years of experience in native iOS development using Swift, SwiftUI, and Xcode. I specialize in building high-quality, intuitive mobile applications for Apple devices, focusing on delivering seamless user experiences and leveraging the latest iOS frameworks.<br>In addition to my expertise in iOS, I have a diverse background in software development across multiple platforms:<br><br>Game Development: Proficient with Unity3D for creating cross-platform video games.</br><br>Full-Stack Web and Desktop Development: Experienced in building web and desktop applications using ASP.NET MVC, WPF, and Bootstrap.</br><br>Backend & API Development: Strong background in designing and integrating RESTful web services.</br><br>Database Management: Skilled in managing both SQL Server and MongoDB databases."
                     },
                     "interests": {
                         "title": "interests",
