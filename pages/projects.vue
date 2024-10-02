@@ -80,7 +80,7 @@ import { ref } from 'vue'
 
 const config = useRuntimeConfig()
 
-const techs = ['Swift', 'Unity', 'WPF', '.NET', 'Roblox']
+const techs = ['Swift', 'Unity', 'dotNET', 'Roblox']
 const filters = ref(['all'])
 const showFilters = ref(true)
 const projects = ref(config.public.dev.projects)

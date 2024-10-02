@@ -138,14 +138,14 @@
             "title": "TMS Instructor",
             "description": "Duis aute irure dolor in velit esse cillum dolore.",
             "img": "/images/projects/ui-animations.png",
-            "tech": ["WPF"],
+            "tech": ["dotNET"],
             "url": "https://github.com/"
         },
         "5": {
             "title": "Optnet WEB",
             "description": "Duis aute irure dolor in velit esse cillum dolore.",
             "img": "/images/projects/tetris-game.png",
-            "tech": [".NET"],
+            "tech": ["dotNET"],
             "url": "https://www.optnet.com.br/"
         },
         "6": {
