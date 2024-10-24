@@ -14,39 +14,11 @@
                     },
                     "hard-skills": {
                         "title": "hard-skills",
-                        "description": "<br>As a front-end developer, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br> <strong>Hard Skills</strong><br><br> - <strong>iOS Development:</strong> Swift, SwiftUI, UIKit, Objective-C, Xcode<br><br> - <strong>Game Development:</strong> Unity3D, Roblox, cross-platform game optimization <br><br> - <strong>Web & Desktop Applications:</strong> ASP.NET MVC, WPF, Bootstrap <br><br> - <strong>Backend & API Development:</strong> RESTful web services, ASP.NET Core, Node.js <br><br> - <strong>Database Management:</strong> SQL Server, MongoDB <br><br> - <strong>DevOps:</strong> CI/CD pipelines, Git, GitHub Actions, Fastlane"
                     },
                     "soft-skills": {
                         "title": "soft-skills",
-                        "description": "<br>I bring more than Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br><br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-                    }
-                }
-            },
-            "personal-info": {
-                "title": "personal-info",
-                "icon": "icons/info-personal.svg",
-                "info": { 
-                    "bio": {
-                        "title": "bio",
-                        "description": "<br> About me <br><br>I'm a passionate Mobile Engineer with over 3 years of experience in native iOS development using Swift, SwiftUI, and Xcode. I specialize in building high-quality, intuitive mobile applications for Apple devices, focusing on delivering seamless user experiences and leveraging the latest iOS frameworks.<br>In addition to my expertise in iOS, I have a diverse background in software development across multiple platforms:<br><br>Game Development: Proficient with Unity3D for creating cross-platform video games.</br><br>Full-Stack Web and Desktop Development: Experienced in building web and desktop applications using ASP.NET MVC, WPF, and Bootstrap.</br><br>Backend & API Development: Strong background in designing and integrating RESTful web services.</br><br>Database Management: Skilled in managing both SQL Server and MongoDB databases."
-                    },
-                    "interests": {
-                        "title": "interests",
-                        "description": "<br>I am constantly learning and lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-                    }                   
-                }
-            },
-            "hobbies-info": {
-                "title": "hobbies-info",
-                "icon": "icons/info-hobbies.svg",
-                "info": {
-                    "sports": {
-                        "title": "sports",
-                        "description": "<br>I am an avid sports enthusiast and lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-                    },
-                    "favorite-games": {
-                        "title": "favorite-games",
-                        "description": "<br>I am a passionate gamer with Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                        "description": "<br><strong>Soft Skills</strong><br><br> I excel in <strong>communication</strong> and <strong>team collaboration</strong>, working effectively with cross-functional teams to deliver high-quality projects. I am highly <strong>adaptable</strong> to changing environments and technologies, and I approach challenges with a <strong>problem-solving mindset</strong>. My strong <strong>time management</strong> skills allow me to balance multiple projects efficiently, and I always strive to maintain a positive, <strong>growth-oriented attitude</strong> when tackling new tasks."
                     }
                 }
             }
@@ -86,24 +58,14 @@
             "title": "find-me-also-in",
             "sources": {
                 "youtube": {
-                    "title": "YouTube channel",
-                    "url": "https://www.youtube.com/",
-                    "user": "username"
+                    "title": "LinkedIn",
+                    "url": "https://www.linkedin.com/in/",
+                    "user": "rteixeirafs"
                 },
-                "gurushots": {
-                    "title": "GuruShots profile",
-                    "url": "https://gurushots.com/",
-                    "user": "username"
-                },
-                "instagram": {
-                    "title": "Instagram account",
-                    "url": "https://instagram.com/",
-                    "user": "username"
-                },
-                "twitch": {
-                    "title": "Twitch profile",
-                    "url": "https://twitch.com/",
-                    "user": "username"
+                "github": {
+                "title": "Github profile",
+                "url": "https://github.com/",
+                "user": "robertoteixeira"
                 }
             }
         }
@@ -115,84 +77,84 @@
     "projects": {
         "1": {
             "title": "World Winner",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "description": "Contributed to the development of WorldWinner, focusing on building high-performance, responsive UI components using Swift and SwiftUI. Collaborated with cross-functional teams to optimize the user experience for competitive gaming, ensuring smooth gameplay and efficient memory management.",
             "img": "/images/projects/world-winner.png",
             "tech": ["Swift"],
-            "url": "https://www.worldwinner.com/"
+            "url": "https://apps.apple.com/us/app/worldwinner-play-cash-games/id1248993106"
         },
         "2": {
             "title": "Fanduel Faceoff",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "description": "Developed dynamic, real-time interfaces for FanDuel FaceOff using Swift, focusing on performance optimization and handling high user traffic. Worked closely with backend teams to integrate API data and ensure smooth in-app interactions for a seamless competitive gaming experience.",
             "img": "/images/projects/fanduel-faceoff.png",
             "tech": ["Swift"],
-            "url": "https://www.fanduel.com/faceoff"
+            "url": "https://apps.apple.com/us/app/fanduel-faceoff/id1608208805"
         },
         "3": {
             "title": "Technomar Maritime Simulator",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "description": "Developed a simulation platform using Unity, designed to operate in a multiplayer LAN environment. The simulator synchronizes across multiple machines to render simulations on multiple screens simultaneously, providing a real-time, large-scale immersive experience.",
             "img": "/images/projects/tms-simulator.png",
             "tech": ["Unity"],
             "url": "https://www.technomar.com.br/en/"
         },
         "4": {
             "title": "TMS Instructor",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "description": "Built a WPF application that allows real-time control and manipulation of simulations. The application features a 2D map display, providing operators with the ability to manage simulations dynamically and adjust settings on the fly.",
             "img": "/images/projects/ui-animations.png",
             "tech": ["dotNET"],
             "url": "https://github.com/"
         },
         "5": {
             "title": "Optnet WEB",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "description": "Developed a web application using ASP.NET to manage and optimize telecom infrastructure. The platform integrates with the Google Maps API to provide real-time geographic visualization and management of network assets, enabling efficient infrastructure monitoring and decision-making.",
             "img": "/images/projects/tetris-game.png",
             "tech": ["dotNET"],
             "url": "https://www.optnet.com.br/"
         },
         "6": {
             "title": "Mike Miner in Cave Escape",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "description": "Developed a 2D puzzle game for iOS and Android using Unity. The game features a backend built with ASP.NET MVC 5, and integrates third-party SDKs like Unity Ads and Facebook, providing in-app monetization and social features.",
             "img": "/images/projects/tetris-game.png",
             "tech": ["Unity"],
             "url": "https://play.google.com/store/apps/details?id=com.ConceptSoft.CaveScape"
         },
         "7": {
             "title": "Tap Animals",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "description": "Created a collection of mini games for children using Unity and C#, targeting both iOS and Android platforms. The game features in-app purchases and integrates third-party SDKs, providing a seamless user experience with monetization options.",
             "img": "/images/projects/ethereum.png",
             "tech": ["Unity"],
             "url": "https://github.com/"
         },
         "8": {
             "title": "Nikeland",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "description": "Developed a Roblox game focused on sports such as basketball, football, skating, and breakdancing. Leveraged Roblox Studio and Lua scripting to create interactive sports mini-games and immersive environments. Integrated physics-based movement and animations to enhance the gameplay experience for players.",
             "img": "/images/projects/nike.png",
             "tech": ["Roblox"],
             "url": "https://www.nike.com/kids/nikeland-roblox"
         },
         "9": {
             "title": "FIFA Footblocks",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "description": "Developed and integrated the Clubs feature in a PVP 5v5 football game, allowing players to create and manage their own teams and compete in a global ranking system. This feature was heavily UI-focused and data-driven, ensuring a seamless user experience and real-time updates on team performance and rankings.",
             "img": "/images/projects/footblocks.png",
             "tech": ["Roblox"],
             "url": "https://www.roblox.com/games/13982397897/FIFA-Footblocks-Soccer"
         },
         "10": {
             "title": "FIFA World",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "description": "Led the development of core features in a tycoon-style game, including city building, gacha mechanics, and pet systems. These features provided engaging gameplay mechanics that allowed players to construct their own environments, collect characters, and enhance their gaming experience.",
             "img": "/images/projects/fifa-world.png",
             "tech": ["Roblox"],
             "url": "https://www.roblox.com/games/9486506804/FIFA-World-New-Tycoon"
         },
         "11": {
-            "title": "Touchdown Simulator",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "title": "Ultimate Football Simulator",
+            "description": "Developed an American Football-inspired game, focusing on mechanics such as field goals, training modules, customizable character models, and player progression. These features allowed players to enhance their skills, customize their characters, and advance through various levels of gameplay.",
             "img": "/images/projects/touchdown.png",
             "tech": ["Roblox"],
             "url": "https://www.roblox.com/games/15479868981/Touchdown-Simulator"
         },
         "12": {
             "title": "Pancake Empire",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "description": "Developed a game aimed at teaching kids the fundamentals of finance through interactive and fun gameplay. Implemented mechanics such as buy and sell systems, combined with obby challenges, to provide a ludic and educational experience.",
             "img": "/images/projects/pancake-empire.png",
             "tech": ["Roblox"],
             "url": "https://www.roblox.com/games/12067094710/NEW-OBBY-UGC-Pancake-Empire-Tower-Tycoon"
